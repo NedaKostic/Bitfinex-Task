@@ -1,0 +1,15 @@
+body {
+    background: url(../img/back1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+a {
+    color: #fff;
+}
+
+a:hover {
+    color: #808080;
+}
